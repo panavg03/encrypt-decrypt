@@ -1,5 +1,5 @@
 import os
-passwd = "2005"
+passwd = "2007"
 replace = False 
 def formula(key):
     fkey=0
@@ -127,4 +127,5 @@ if __name__ == "__main__":
                 decrypt(location,key)
         
         
+
     
