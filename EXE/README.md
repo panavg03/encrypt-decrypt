@@ -1,4 +1,4 @@
-                                                      ~~~ THIS IS AN EXE FILE OF THE ENCRYPTOR-DECRYPTOR PYTHON FILE ~~~
+                                                      ~~~ THIS IS THE README OF THE EXE FILE OF THE ENCRYPTER-DECRYPTER PYTHON FILE ~~~
 
 ## To run the file:
 ~Double click on the exe file; disable your anti-virus temporarily or add the exe as an exception.
